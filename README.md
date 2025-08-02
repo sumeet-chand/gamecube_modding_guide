@@ -1,7 +1,7 @@
 
 # GAMECUBE MODDING GUIDE
 
-* By: Sumeet Singh @ sumeet-singh.com
+* By: Sumeet Singh
 * Created: October 2024
 * Version: 1.0 (October 2024)
 * Description: This document outlines various ways to repair and mod your gamecube including playing backups of Gamecube game roms or setup

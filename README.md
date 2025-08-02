@@ -36,8 +36,6 @@ Open up and desolder the existing, and replace with a CR2032 cell holder with pi
 
 ## REQUIREMENTS
 * DOL-001 - original gamecube with the digital AV port
-* Buy a memory card from eBay with the below game exploit for your region preconfigured. Contact seller to ask.
-The memory card will have the hacked game + Swiss installed on it. Swiss is the new Gamecube OS you will use.
 * An game to exploit of any region, in this case Zelda Wind walker
 * MicroSD Card at least 32GB FAT32 formatted
 * A serial port 2 MicroSD card adapter e.g, SD2SP2 Pro ($15 AUD from amazon.com)
@@ -49,7 +47,7 @@ The memory card will have the hacked game + Swiss installed on it. Swiss is the 
 ## PLAY BACKUP GAMES AND ROMS
 1. Add .iso or .nkit.iso roms to FAT32 formatted MicroSD card, 
 2. connect to SD2SP2 or similar device
-then connect to serial port 2 underneath your device ensuring it's an original DOL-001 model Gamecube.
+.3 Connect SD2SP2 to Gamecube serial port 2 underneath your device.
 3. Boot into swiss using any exploit method as above, then change to MicroSD folder and play any game
 
 ## GAMEBOY INTERFACE SETUP

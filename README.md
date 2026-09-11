@@ -45,10 +45,10 @@ Open up and desolder the existing, and replace with a CR2032 cell holder with pi
 1. Follow this video https://www.youtube.com/watch?v=1mZQeCzvy6E&t
 
 ## PLAY BACKUP GAMES AND ROMS
-1. Add .iso or .nkit.iso roms to FAT32 formatted MicroSD card, 
+1. Add .iso or roms to FAT32 formatted MicroSD card. If you have .nkit.iso you can download dolphin emulator on PC and convert to iso 
 2. connect to SD2SP2 or similar device
-.3 Connect SD2SP2 to Gamecube serial port 2 underneath your device.
-3. Boot into swiss using any exploit method as above, then change to MicroSD folder and play any game
+3. Connect SD2SP2 to Gamecube serial port 2 underneath your device.
+4. Boot into swiss using any exploit method as above, then change to MicroSD folder and play any game
 
 ## GAMEBOY INTERFACE SETUP
 

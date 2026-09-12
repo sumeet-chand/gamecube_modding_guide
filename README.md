@@ -4,10 +4,7 @@
 * By: Sumeet Chand
 * Created: October 2024
 * Version: 1.0 (October 2024)
-* Description: This document outlines various ways to repair and mod your gamecube including playing backups of Gamecube game roms or setup
-Gameboy Interface to allow upscaling of Gameboy games to play on your TV. The purpose was to bring life to our old childhood consoles. 
-I do not condone piracy nor performing any activity that renders breaking a EULA or Terms and conditions contract between a product vendor 
-and customer. I recommend to buy official licensed games and hardware.
+* Description: This document outlines various ways to repair and mod your Gamecube including playing backups of Gamecube game roms using Swiss Exploit method or setup Gameboy Interface to allow upscaling of Gameboy games to play on your TV. The purpose was to bring life to our old childhood consoles. I do not condone piracy nor performing any activity that renders breaking a EULA or Terms and conditions contract between a product vendor and customer. I recommend to buy official licensed games and hardware.
 
 # TABLE OF CONTENTS
 - [1. REQUIREMENTS](#requirements)
@@ -35,20 +32,18 @@ Open up and desolder the existing, and replace with a CR2032 cell holder with pi
 # MODDING
 
 ## REQUIREMENTS
-* DOL-001 - original gamecube with the digital AV port
+* Any Gamecube model including compatible Nintendo Wii consoles
 * An game to exploit of any region, in this case Zelda Wind walker
 * MicroSD Card at least 32GB FAT32 formatted
 * A serial port 2 MicroSD card adapter e.g, SD2SP2 Pro ($15 AUD from amazon.com)
 * A memory card of black size and up
 
-# SWISS EXPLOIT STEPS
-1. Follow this video https://www.youtube.com/watch?v=1mZQeCzvy6E&t
-
-## PLAY BACKUP GAMES AND ROMS
-1. Add .iso or roms to FAT32 formatted MicroSD card. If you have .nkit.iso you can download dolphin emulator on PC and convert to iso 
-2. connect to SD2SP2 or similar device
-3. Connect SD2SP2 to Gamecube serial port 2 underneath your device.
-4. Boot into swiss using any exploit method as above, then change to MicroSD folder and play any game
+## HOW TO SETUP SWISS
+1. Add .iso or roms to FAT32 formatted MicroSD card. If you have .nkit.iso you can download dolphin emulator on PC and convert to iso
+2. Connect SD2SP2 (or similar device). to Gamecube serial port 2 underneath the Gamecube.
+3. Add the MicroSD card to the SD2SP2 (or similar device).
+4. Follow this video to setup Swiss https://www.youtube.com/watch?v=1mZQeCzvy6E (Note the Author found a different possibly easier method here: https://www.youtube.com/watch?v=E3EHuJM9Y3Q)
+5. Boot into swiss using any exploit method as above, then change to MicroSD folder and play any game
 
 ## GAMEBOY INTERFACE SETUP
 
@@ -87,3 +82,7 @@ high-fidelity = best for use with upscalers however untested by author
 
 Using the Gamecube controller press X then press either L or R to zoom in or out. This way you can fill the entire contents of the display.
 If the game is offset, press the X button and the directional pad in any direction to change the offset then press B or X again to cancel.
+
+## BONUS - SETUP GAME CONSOLE EMULATORS ON GAMECUBE
+
+Follow this guide https://www.youtube.com/watch?v=_rYVWzjVWmw to play other game consoles e.g, Megadrive, Snes, etc., games (roms) on your Gamecube. 

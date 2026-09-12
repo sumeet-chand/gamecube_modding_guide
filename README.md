@@ -3,7 +3,7 @@
 
 * By: Sumeet Chand
 * Created: October 2024
-* Version: 1.0 (October 2024)
+* Version: 1.1 (September 2026)
 * Description: This document outlines various ways to repair and mod your Gamecube including playing backups of Gamecube game roms using Swiss Exploit method or setup Gameboy Interface to allow upscaling of Gameboy games to play on your TV. The purpose was to bring life to our old childhood consoles. I do not condone piracy nor performing any activity that renders breaking a EULA or Terms and conditions contract between a product vendor and customer. I recommend to buy official licensed games and hardware.
 
 # TABLE OF CONTENTS
